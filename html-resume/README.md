@@ -45,7 +45,7 @@ html-resume/
 Clone the repository:
 
 ```
-git clone https://github.com/tejas-963/html-resume.git
+git clone https://github.com/tejas-963/Web-Dev-Cohort-2026.git
 ```
 
 Open the project folder.
