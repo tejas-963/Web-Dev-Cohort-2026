@@ -542,9 +542,20 @@ footer .bottom {
 
 footer .bottom .left{
 	display: flex;
+	align-items: center;
 	gap: .75rem;
 	margin: 2.25rem 0;
 	color: var(--muted-text);
+}
+
+footer .bottom .left .soc {
+	display: flex;
+	align-items: center;
+	gap: .125rem;
+}
+
+footer .bottom .left img {
+	width: 1rem;
 }
 
 footer .bottom .left a {
